@@ -2,3 +2,9 @@
     height: 60px;
     border-bottom: 2px solid #cccccc;
 }
+#body {
+}
+
+#footer {
+    border-top: 8px solid #4aaaa5;
+}
